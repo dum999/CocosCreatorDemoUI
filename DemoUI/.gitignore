@@ -1,0 +1,9 @@
+umbiso.sublime-project
+umbiso.sublime-workspace
+
+#xcode
+*.pbxuser
+*.xcworkspace
+xcuserdata/
+
+Pods
