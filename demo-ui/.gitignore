@@ -1,0 +1,10 @@
+# CocosCreator
+library/
+local/
+temp/
+
+# creator-luacpp-support
+settings/creator-luacpp-support.json
+ccreator/
+json/
+
