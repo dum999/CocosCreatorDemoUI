@@ -66,7 +66,7 @@ public:
      Returns the FlatBuffers Schema version.
      @return a string containing the flatbuffer's schema version
      */
-    std::string getVersion() const;
+    const std::string& getVersion() const;
 
     /**
      Setup the needed spritesheets and change the design resolution if needed.
